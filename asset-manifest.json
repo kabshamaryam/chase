@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/chase/static/css/main.28ab32e9.chunk.css",
+    "main.js": "/chase/static/js/main.356199fc.chunk.js",
+    "main.js.map": "/chase/static/js/main.356199fc.chunk.js.map",
+    "runtime-main.js": "/chase/static/js/runtime-main.5b537ec3.js",
+    "runtime-main.js.map": "/chase/static/js/runtime-main.5b537ec3.js.map",
+    "static/css/2.31461e4f.chunk.css": "/chase/static/css/2.31461e4f.chunk.css",
+    "static/js/2.e5ada42a.chunk.js": "/chase/static/js/2.e5ada42a.chunk.js",
+    "static/js/2.e5ada42a.chunk.js.map": "/chase/static/js/2.e5ada42a.chunk.js.map",
+    "static/js/3.ed3f38d4.chunk.js": "/chase/static/js/3.ed3f38d4.chunk.js",
+    "static/js/3.ed3f38d4.chunk.js.map": "/chase/static/js/3.ed3f38d4.chunk.js.map",
+    "index.html": "/chase/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/chase/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.28ab32e9.chunk.css.map": "/chase/static/css/main.28ab32e9.chunk.css.map",
+    "static/js/2.e5ada42a.chunk.js.LICENSE.txt": "/chase/static/js/2.e5ada42a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/chase/static/media/SuperMario256.4f725b59.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b537ec3.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.e5ada42a.chunk.js",
+    "static/css/main.28ab32e9.chunk.css",
+    "static/js/main.356199fc.chunk.js"
+  ]
+}
